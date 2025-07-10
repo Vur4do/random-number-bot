@@ -1,0 +1,19 @@
+{
+	"name": "random-number-bot",
+	"version": "1.0.0",
+	"main": "index.js",
+	"type": "commonjs",
+	"scripts": {
+		"dev": "nodemon index.js",
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"node-telegram-bot-api": "^0.61.0",
+		"dotenv": "^16.3.1",
+		"nodemon": "^3.1.10"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": ""
+}
